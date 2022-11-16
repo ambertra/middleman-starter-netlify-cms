@@ -1,5 +1,15 @@
-nav_items: 
-  - {label: 'About', path: '/'}
-  - {label: 'Modules', path: '/products/'}
-  - {label: 'Packages', path: '/news'}
-
+nav_items:
+  - label: Definitions
+    path: /
+  - label: Module
+    path: /products/
+  - label: Module Data
+    path: /news
+  - label: Package
+    path: /products/
+  - label: Package Data
+    path: /products/
+  - label: Hardware
+    path: /products/
+  - label: Hardware Data
+    path: /products/
