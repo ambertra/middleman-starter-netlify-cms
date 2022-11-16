@@ -1,10 +1,6 @@
-title: Module 3
+title: New Product
 date: 2022-11-16T00:28:04.255Z
-tag: AI
-seo: edge
-body: 
-
-Short Description:   This is text.
-
-
-Long Description:  This is longer text. 
+image: /images/uploads/product-01.png
+weight: 5
+price: 5
+body: "5"
